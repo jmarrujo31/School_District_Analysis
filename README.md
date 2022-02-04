@@ -15,16 +15,17 @@ The school board has notified Maria and her supervisor that the students_complet
 
 
 ![](Resources/pic2.png)
+![](Resources/pic1.png)
+![](Resources/pic3.png)
+![](Resources/pic4.png)
+![](Resources/pic5.png)
+![](Resources/pic6.png)
+![](Resources/pic7.png)
+![](Resources/pic8.png)
+![](Resources/pic9.png)
 
 
 
-   How is the district summary affected?
-    How is the school summary affected?
-    How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    How does replacing the ninth-grade scores affect the following:
-        Math and reading scores by grade
-        Scores by school spending
-        Scores by school size
-        Scores by school type
+**Summary**
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Not sure if i did something wrong, but i was assuming i would get diffrent results after removing Thomas High School 9th grades to naNs, but had the exact results
