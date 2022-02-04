@@ -28,4 +28,4 @@ The school board has notified Maria and her supervisor that the students_complet
 
 **Summary**
 
-Not sure if i did something wrong, but i was assuming i would get diffrent results after removing Thomas High School 9th grades to naNs, but had the exact results
+Not sure if i did something wrong (used a wrong DataFrame), but i was assuming i would get diffrent results after removing Thomas High School 9th grades to naNs, but had the exact results
